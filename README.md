@@ -5,7 +5,7 @@
 ![image text](https://github.com/liuzhangjie/studentapp/blob/master/lzj/lzj-1.png)<br>
 添加数据及其结果：<br>
 ![image text](https://github.com/liuzhangjie/studentapp/blob/master/lzj/lzj-add.png)<br>
-![image text](https://github.com/liuzhangjie/studentapp/blob/master/lzj/lzj-add.png)<br>
+![image text](https://github.com/liuzhangjie/studentapp/blob/master/lzj/lzj-add-result.png)<br>
 更新数据及其结果：<br>
 ![image text](https://github.com/liuzhangjie/studentapp/blob/master/lzj/lzj-update.png)<br>
 ![image text](https://github.com/liuzhangjie/studentapp/blob/master/lzj/lzj-update-res.png)<br>
