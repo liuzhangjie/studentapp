@@ -1,0 +1,34 @@
+﻿<html>
+<script>
+function test(){
+window.location.href="http://www.gucas.ac.cn/";
+}
+function test1(){
+var realTime =  new Date();
+var hour  = realTime.getHours();
+
+if(hour>12&&hour<18){
+alert("下午好，现在是："+realTime);
+}
+if(hour<12){
+alert("早上好，现在是："+realTime);
+}
+if(hour>18){
+alert("晚上好，现在是："+realTime);
+}
+
+}
+
+</script>
+<body>
+<p align="center">第一次作业</p>
+<table border="1" align="center">
+<tr><td>序号</td><td>实现</td><td>备注</td></tr>
+<tr><td>1</td><td><a href="http://www.gucas.ac.cn/">国科大主页+hour</a></td><td>链接到国科大主页</td></tr>
+<tr><td>2</td><td><button onclick="test1()">hello</button></td><td>显示本地时间，并相应打招呼</td></tr>
+<tr><td>3</td><td><button onclick="test()">跳转</button></td><td>跳转到国科大主页</td></tr>
+</table>
+
+
+</body>
+</html>
